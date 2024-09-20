@@ -19,6 +19,8 @@ Ce projet vise à déployer un modèle de classification d'images dans un enviro
 - Phase 1 : Classification d’images avec un volume accru de données.
 - Phase 2 : Développement de robots cueilleurs intelligents.
 
+![Illustration_entreorise](images/Diapo_5.png)  
+
 ### Mission
 Mettre en place une architecture Big Data pour la classification d’images à des fins d’application mobile.
 
@@ -31,6 +33,8 @@ Mettre en place une architecture Big Data pour la classification d’images à d
 - **90 380 images** réparties en **131 classes** (ex. : pomme, banane, fraise, etc.).
 - Taille des images : **100x100 pixels** sur fond blanc.
 - Images organisées par classe avec différentes perspectives pour chaque fruit.
+
+![Images_fruits](images/Diapo_6.png)    
 
 ---
 
